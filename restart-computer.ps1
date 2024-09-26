@@ -1,2 +1,2 @@
--ExecutionPolicy ByPass
+powershell.exe -ExecutionPolicy ByPass
 restart-computer
