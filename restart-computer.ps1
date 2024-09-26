@@ -1,1 +1,2 @@
+-ExecutionPolicy ByPass
 restart-computer
